@@ -1,2 +1,5 @@
-# TQIFullStackDeveloper-primeiro-desafio
-Bootcamp da DIO - primeiro desafio de projeto
+# Desafio de Projeto sobre Git/GitHub da DIO
+Repositório criado para o primeiro desafio de projeto do Bootcamp da DIO
+
+## Links úteis
+[Sintaxe Básica Markdown](https://www.markdownguide.org/basic-syntax/)
